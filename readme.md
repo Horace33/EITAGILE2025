@@ -1,4 +1,4 @@
-# This is our project 
+# Android 18 Github Repository 
 ### 1. Main Branch
    - [Group Meeting Minutes 1](https://github.com/Horace33/EITAGILE2025/blob/Horace33-Ongoing-Assignment-Documentation/Group%20Meeting%20Minutes%20Interation%201.docx)
    - [Group Meeting Minutes 2](https://github.com/Horace33/EITAGILE2025/blob/Horace33-Ongoing-Assignment-Documentation/Group%20Meeting%20Report%20Iteration%202%20Minutes.docx)
